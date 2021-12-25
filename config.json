@@ -1,0 +1,14 @@
+{
+    "ver": "1.0",
+    
+    "web": {
+        "port": 3000
+    },
+
+    "auth": {
+        "baseURL": "https://paste.lucatolton.me",
+        "clientID": "3CwfdV9RxuvnvEbd63UlR9e3scJpSoGw",
+        "issuerBaseURL": "https://lucatolton.us.auth0.com",
+        "secret": "super secure secret"
+    }
+}
